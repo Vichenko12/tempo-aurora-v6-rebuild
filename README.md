@@ -1,1 +1,0 @@
-# tempo-aurora-v6-rebuild
